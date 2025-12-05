@@ -14,8 +14,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 # Batch 1: 0 sampai 4000
 # Batch 2: 4000 sampai 8000
 # Batch 3: 8000 sampai 12000, dst...
-BATCH_START = 50     
-BATCH_END   = 5000  
+BATCH_START = 1000     
+BATCH_END   = 3000  
 
 CSV_FILE = "hoax_data_complete.csv"
 
